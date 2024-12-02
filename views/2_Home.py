@@ -18,7 +18,7 @@ lottie_coding = load_lottieurl("https://lottie.host/89abf601-d767-4328-b0ab-76e2
 
 # Streamlit layout
 with st.container():
-    st.title("Welcome to Enzo's Biography!")
+    st.title("Welcome to Ryan's Biography!")
 
 with st.container():
     st.write("---")
@@ -28,7 +28,7 @@ with st.container():
         st.header("Who am I?")
         st.write(
             """
-            Hi, I'm **Lorenz Pio G. Chua**. 
+            Hi, I'm **Joseph Ryan B. Ruperez**. 
 
             A first-year **Computer Engineering** student from **Surigao del Norte State University**.
 
@@ -48,19 +48,19 @@ with st.container():
 
 socials = {
     "Instagram": {
-        "url": "https://www.instagram.com/void.jhin?igsh=cjBvZ3Q0Y2cydGhw&utm_source=qr",
+        "url": "https://www.instagram.com/curriedawson01/profilecard/?igsh=MXhtdTZsejQ5eDNiMg==",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
     },
     "Facebook": {
-        "url": "https://www.facebook.com/share/1FUaYY54xv/?mibextid=LQQJ4d",
+        "url": "https://www.facebook.com/share/nUCFEEMoznRVhzP7/",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"
     },
     "YouTube": {
-        "url": "https://youtube.com/@jh1nnn?si=GIJJi-F2owKva6Jk",
+        "url": "https://youtube.com/@curriexdawson3215?si=JSZtGzjzpkYBclhO",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png"
     },
     "TikTok": {
-        "url": "https://www.tiktok.com/@void.jhin?_t=8rhhjah9Zii&_r=1",
+        "url": "https://www.tiktok.com/@curriex001?_t=8rsnyI7MgUb&_r=1",
         "logo": "https://i.pinimg.com/736x/f0/a6/ae/f0a6ae3415974dcdf7f165a287456be7.jpg"
     }
 }
