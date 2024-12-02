@@ -8,11 +8,11 @@ def load_hobbies():
             return json.load(file)
     except FileNotFoundError:
         return [
-            {"title": "Playing Guitar", "image": "https://web.facebook.com/messenger_media?attachment_id=7267002772975076816&message_id=7267002777649848265&thread_id=100058582239209g", "caption": "1st Live Gig (2022)"},
-            {"title": "Gym🦾", "image": "https://web.facebook.com/messenger_media?attachment_id=1785328672276871&message_id=mid.%24cAABbALRAR-mZl5qkw2TZlIYnmJ_J&thread_id=100058582239209", "caption": "Back day pump🔥"},
+            {"title": "Karate", "image": "https://www.facebook.com/ad448f17-19e2-437a-b693-86af5219d033", "caption": "Karate kidss"},
+            {"title": "Gym🦾", "image": "https://www.facebook.com/cf40a6aa-b407-4723-bd5b-7b75f383423d", "caption": "Gym with the homies🔥"},
             {"title": "Playing Video Games", "images": [
                 {"image": "https://web.facebook.com/messenger_media?attachment_id=1590563738515999&message_id=mid.%24cAABbALRAR-mZl5qkw2TZlIYnmJ_J&thread_id=100058582239209", "caption": "Valorant"},
-                {"image": "https://web.facebook.com/messenger_media?attachment_id=961211555861122&message_id=mid.%24cAABbALRAR-mZl5qkw2TZlIYnmJ_J&thread_id=100058582239209", "caption": "Mobile Legends"}
+                {"image": "https://www.facebook.com/2a262e7f-7028-4e42-912b-02cabc3b9fd1", "caption": "Minecraft"}
             ]}
         ]
 
