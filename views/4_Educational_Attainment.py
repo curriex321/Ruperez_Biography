@@ -10,11 +10,11 @@ def load_data():
             "education": [
                 {
                     "level": "Elementary",
-                    "details": "Graduated as Class Valedictorian at San Isidro Elementary School",
+                    "details": "Graduated at St. Paul University Surigao Elementary Department",
                 },
                 {
                     "level": "High School",
-                    "details": "Graduated at Gigaquit National School of Home Industries\n-With High Honors",
+                    "details": "Graduated at St. Paul University Surigao High school Department",
                 },
                 {
                     "level": "University",
@@ -22,10 +22,6 @@ def load_data():
                 },
             ],
             "achievements": [
-                "1st Place in Talumpati - District Level (Elementary)",
-                "1st Place in Capstone Project under Innovation Category (Robotics)",
-                "2nd Place in Math Trail (School-Based)",
-                "3rd Place as Technical Director in Radio Broadcasting during Division Schools Press Conference",
             ],
         }
 
